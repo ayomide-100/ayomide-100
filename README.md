@@ -9,7 +9,9 @@ I'm currently learning and interested in:
 - *Full-stack ML applications* that bridge AI research with practical, user-ready solutions
 
   I'm actively looking for collaborations
+
+  
   [my mail](mailto:aadegoke100@gmail.com)
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayomide-100)](https://github.com/anuraghazra/github-readme-stats)
+
