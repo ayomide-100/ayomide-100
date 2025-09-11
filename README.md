@@ -7,7 +7,7 @@ I'm currently interested in:
 - *AI Agents/Agentic AI*
 - *Deep learning and large language models (LLMs)*  
 - *Fine-tuning transformers for domain-specific tasks*  
-- *Full-stack ML applications* that bridge AI research with practical, user-ready solutions*
+- *Full-stack ML applications that bridge AI research with practical, user-ready solutions*
 
   I'm actively looking for collaborations and internships
 
