@@ -4,7 +4,7 @@
 <h3 align="center">AI/ML Engineer | Robotics & Automation | Mechatronics Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Building+AI-powered+solutions;Machine+Learning+%7C+Computer+Vision;NLP+%7C+Robotics+%7C+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Solutions+Across+Domains;Machine+Learning+%7C+Computer+Vision;NLP+%7C+Robotics+%7C+Automation" alt="Typing SVG" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ##  Connect With Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/ayomide-adegoke-a1a35a299/)">
+  <a href="https://www.linkedin.com/in/ayomide-adegoke-a1a35a299/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ayomide-100">
